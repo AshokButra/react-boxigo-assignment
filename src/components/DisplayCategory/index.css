@@ -1,0 +1,28 @@
+.item-container {
+  margin-right: 30px;
+}
+.each-item-display {
+  display: flex;
+  flex-direction: column;
+  width: 20vw;
+  margin: 6px;
+}
+.item-name {
+  font-size: 24px;
+}
+.display-name-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.display-item-name {
+  font-size: 15px;
+}
+.order {
+  font-size: 15px;
+  font-weight: 700;
+}
+.raw-material {
+  font-size: 12px;
+  font-weight: 700;
+}

@@ -1,0 +1,141 @@
+.move-detail-container {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 30px;
+}
+.from-to-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.from-container {
+  width: 20vw;
+}
+.from-word {
+  font-size: 14px;
+}
+.from-address {
+  font-size: 14px;
+}
+.to-container {
+  width: 20vw;
+}
+.to-word {
+  font-size: 14px;
+}
+.to-address {
+  font-size: 14px;
+}
+.arrow-container {
+  height: 30px;
+  width: 30px;
+  border-radius: 15px;
+  background-color: #e6e4e1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.arrow {
+  color: #f05735;
+}
+.request {
+  font-size: 15px;
+}
+.estimate-id {
+  color: #f05735;
+  font-size: 17px;
+}
+.total-distance-address-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.home-icon-container {
+  display: flex;
+  align-items: center;
+}
+.home {
+  font-size: 24px;
+  color: #f05735;
+}
+.description {
+  margin-left: 8px;
+  font-size: 14px;
+}
+.boxes-container {
+  display: flex;
+  align-items: center;
+}
+.boxes {
+  font-size: 24px;
+  color: #f05735;
+}
+.route-container {
+  display: flex;
+  align-items: center;
+}
+.route {
+  font-size: 24px;
+  color: #f05735;
+}
+.delivery-container {
+  display: flex;
+  align-items: center;
+}
+.delivery {
+  font-size: 24px;
+  color: #f05735;
+}
+.check-container {
+  display: flex;
+  align-items: center;
+}
+.check {
+  font-size: 24px;
+  color: #f05735;
+}
+.pencil {
+  font-size: 18px;
+  margin-left: 10px;
+}
+.buttons-container {
+  display: flex;
+  align-items: center;
+}
+.view-details-button {
+  color: #f05735;
+  background-color: transparent;
+  border: 2px solid #f05735;
+  border-radius: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding: 7px;
+}
+.quotes-awaiting-button {
+  color: #ffffff;
+  background-color: #f05735;
+  border-radius: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding: 7px;
+  margin-left: 6px;
+  border-width: 0px;
+}
+.disclaimer-container {
+  display: flex;
+  align-items: center;
+}
+.alert-icon {
+  font-size: 24px;
+  color: #f05735;
+}
+.disclaimer {
+  margin-left: 10px;
+  font-size: 15px;
+  font-weight: 700;
+}
+.disclaimer-description {
+  font-size: 15px;
+  font-weight: 400;
+}

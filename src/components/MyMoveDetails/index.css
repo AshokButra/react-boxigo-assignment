@@ -1,0 +1,75 @@
+.additional-information-container {
+  margin-top: 30px;
+}
+.house-details-container {
+  margin-top: 20px;
+}
+.text-button-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.additional-information {
+  font-size: 17px;
+}
+.house-details {
+  font-size: 17px;
+}
+.edit-additional-info {
+  color: #ffffff;
+  background-color: #000000;
+  border-radius: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding: 7px;
+  margin-left: 6px;
+  border-width: 0px;
+}
+.edit-house-details {
+  color: #ffffff;
+  background-color: #000000;
+  border-radius: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding: 7px;
+  margin-left: 6px;
+  border-width: 0px;
+}
+.existing-house-details {
+  font-size: 16px;
+  color: #f05735;
+}
+.existing-house-details-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+}
+.new-house-details {
+  font-size: 16px;
+  color: #f05735;
+}
+.new-house-details-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+}
+.floor-no {
+  font-size: 14px;
+}
+.floor-no-value {
+  font-size: 13px;
+}
+.elevator-available {
+  font-size: 14px;
+}
+.is-elevator-available {
+  font-size: 13px;
+}
+.distance-from-elevator {
+  font-size: 14px;
+}
+.distance-from-elevator-value {
+  font-size: 13px;
+}
