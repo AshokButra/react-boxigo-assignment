@@ -48,7 +48,7 @@
 
 @media screen and (max-width: 767px) {
   .home-desktop-img {
-    display: none;
+    order: 1;
   }
 }
 
@@ -106,3 +106,5 @@
     font-size: 16px;
   }
 }
+
+
