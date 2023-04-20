@@ -51,6 +51,11 @@
   align-items: center;
   width: 100%;
 }
+@media screen and (max-width: 768px) {
+  .total-distance-address-container {
+    flex-wrap: wrap;
+  }
+}
 .home-icon-container {
   display: flex;
   align-items: center;
