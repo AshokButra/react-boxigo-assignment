@@ -9,11 +9,6 @@ const Home = () => (
     <div className="home-container">
       <div className="home-content">
         <h1 className="home-heading">About Us</h1>
-        <img
-          src="https://assets.ccbp.in/frontend/react-js/nxt-trendz-home-img.png"
-          alt="clothes to be noticed"
-          className="home-mobile-img"
-        />
         <p className="home-description">
           An ultra-modern startup that binds technology with conventional
           business. <br />
